@@ -4,7 +4,7 @@ import Filter from "./common/Filter";
 import allSkills from "../data/skills";
 
 const Skills = () => {
-  const [category, setCategory] = useState("programming languages");
+  const [category, setCategory] = useState("pl");
   const filterCategories = [...new Set(allSkills.map((s) => s.category))];
 
   const handleFilter = (selectedCategory) => {
