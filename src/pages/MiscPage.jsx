@@ -1,5 +1,5 @@
 import { Container, Row, Col } from "react-bootstrap";
-import Certifications from "../components/certifications";
+import Certifications from "../components/Certifications";
 import Awards from "../components/Awards";
 import Cocurriculur from "../components/Cocurriculur";
 import Affiliations from "../components/Affiliations";
