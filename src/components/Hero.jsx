@@ -48,24 +48,25 @@ const Hero = () => {
                 , one of the renowned public universities in Bangladesh.
               </p>
               <p>
-                I like to explore new technologies, love to learn new things and
-                always feel curious about knowing every details what excites me.
-                My areas of interest include Machine Learning (ML), Signal
-                Processing, Cyber Security, Computer Vision (CV) and Natural
-                Language Processing (NLP). My primary research lies in the area
-                of speech processing and enthusiastic about multimodal speech
-                research. I feel excited about working on problems that would
-                provide seamless interaction between intelligent machines and
-                humans by combining features from different modalities. I always
-                look for an opportunity to work in a team-based environment
-                where I can make a direct impact in the field of{" "}
+                He likes to explore new technologies, loves to learn new things
+                and always feels curious about knowing every details what
+                excites him. His areas of interest include Machine Learning
+                (ML), Signal Processing, Cyber Security, Computer Vision (CV)
+                and Natural Language Processing (NLP). His primary research lies
+                in the area of speech processing and enthusiastic about
+                multimodal speech research. He feels excited about working on
+                problems that would provide seamless interaction between
+                intelligent machines and humans by combining features from
+                different modalities. He always looks for an opportunity to work
+                in a team-based environment where he can make a direct impact in
+                the field of{" "}
                 <span className="text-highlight">
                   signal processing or cyber security or CV or NLP.
                 </span>
               </p>
               <p>
-                Apart from education activities, I read blogs on programming,
-                watch travel blogs, work on hobby projects. I also love
+                Apart from education activities, he reads blogs on programming,
+                watches travel blogs, works on hobby projects. He also loves
                 travelling and exploring new places.
               </p>
               <AlertBox
