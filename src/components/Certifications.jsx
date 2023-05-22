@@ -9,7 +9,7 @@ const Certifications = () => {
   const sortedCertificates = certificates.sort(
     (a, b) => b.date_issued - a.date_issued
   );
-  console.log(sortedCertificates);
+
   return (
     <>
       <Swiper
