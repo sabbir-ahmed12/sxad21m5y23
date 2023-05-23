@@ -72,7 +72,7 @@ const Hero = () => {
               <AlertBox
                 variant="warning"
                 alertHead="Open to Work:"
-                alertText="Looking for a full-time job or research position in the above-mentioned fields."
+                alertText="Looking for a full-time job or a research assistant position in the above-mentioned fields."
                 isDismissable={false}
               />
             </Col>
