@@ -11,7 +11,7 @@ const publications = [
     authors: ["Sabbir Ahmed", "Nursadul Mamun", "Md Azad Hossain"],
     paper_link: "",
     publisher_name: "ICEEICT",
-    published_date: new Date("2019-10-12"),
+    published_date: new Date("2021-11-21"),
     category: "conference",
   },
 ];
