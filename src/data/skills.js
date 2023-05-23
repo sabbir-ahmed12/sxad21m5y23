@@ -7,7 +7,7 @@ const allSkills = [
   },
   {
     _id: 2,
-    name: "MATLAb",
+    name: "MATLAB",
     level: 85,
     category: "pl",
   },
