@@ -14,10 +14,10 @@ const updates = [
   },
   {
     _id: uuidv5(
-      'Submitted a journal titled, "Cochleagram Based Noise Adapted Speaker Identification for Distorted Speech" on JSHLR.',
+      'Submitted a journal titled, "Cochleagram Based Noise Adapted Speaker Identification for Distorted Speech" in Elsevier Digital Signal Processing.',
       NAMESPACE
     ),
-    info: 'Submitted a journal titled, "Cochleagram Based Noise Adapted Speaker Identification for Distorted Speech" on JSHLR.',
+    info: 'Submitted a journal titled, "Cochleagram Based Noise Adapted Speaker Identification for Distorted Speech" in Elsevier Digital Signal Processing.',
     date: new Date("2023-05-16"),
   },
 ];
