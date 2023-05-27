@@ -13,7 +13,7 @@ const VisitorMap = () => {
         <Row className="justify-content-center my-3">
           <Col sm={8} className="text-center">
             <a href="https://clustrmaps.com/site/1buuw" title="Visit tracker">
-              <img src="//clustrmaps.com/map_v2.png?cl=00843d&w=500&t=tt&d=XfPN6nLJI6Q1xG_D-Wze9Tdf4FqJERVIzCFeLO4eOR4&co=e1eedd&ct=00843d" />
+              <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=XfPN6nLJI6Q1xG_D-Wze9Tdf4FqJERVIzCFeLO4eOR4&co=2d78ad&ct=ffffff" />
             </a>
           </Col>
         </Row>
