@@ -127,3 +127,8 @@ a:hover {
   height: 100px;
   width: 100px;
 }
+
+.visitor-map img {
+  height: 12rem;
+  width: 22rem;
+}
