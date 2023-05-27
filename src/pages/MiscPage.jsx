@@ -8,7 +8,7 @@ import Quotes from "../components/Quotes";
 import useGlobeWidget from "../hooks/useGlobeWidget";
 
 const MiscPage = () => {
-  useGlobeWidget(
+  const globe = useGlobeWidget(
     "//clustrmaps.com/globe.js?d=XfPN6nLJI6Q1xG_D-Wze9Tdf4FqJERVIzCFeLO4eOR4"
   );
   return (
@@ -57,6 +57,7 @@ const MiscPage = () => {
               <Quotes />
             </Col>
           </Row>
+          {globe}
         </div>
       </Container>
     </section>
