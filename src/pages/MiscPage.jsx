@@ -53,6 +53,11 @@ const MiscPage = () => {
               <Quotes />
             </Col>
           </Row>
+          <Row className="justify-content-center my-2">
+            <Col sm={10} className="text-center">
+              <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=XfPN6nLJI6Q1xG_D-Wze9Tdf4FqJERVIzCFeLO4eOR4"></script>
+            </Col>
+          </Row>
         </div>
       </Container>
     </section>
