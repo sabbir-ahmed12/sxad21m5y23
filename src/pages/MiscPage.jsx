@@ -5,6 +5,7 @@ import Cocurriculur from "../components/Cocurriculur";
 import Affiliations from "../components/Affiliations";
 import StandardizedTests from "../components/StandardizedTests";
 import Quotes from "../components/Quotes";
+import useGlobeWidget from "../hooks/useGlobeWidget";
 
 const MiscPage = () => {
   return (
@@ -55,7 +56,7 @@ const MiscPage = () => {
           </Row>
           <Row className="justify-content-center my-2">
             <Col sm={10} className="text-center">
-              <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=XfPN6nLJI6Q1xG_D-Wze9Tdf4FqJERVIzCFeLO4eOR4"></script>
+              useGlobeWidget("//clustrmaps.com/globe.js?d=XfPN6nLJI6Q1xG_D-Wze9Tdf4FqJERVIzCFeLO4eOR4")
             </Col>
           </Row>
         </div>
