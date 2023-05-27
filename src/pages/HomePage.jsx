@@ -3,6 +3,7 @@ import Updates from "../components/Updates";
 import Education from "../components/Education";
 import Skills from "../components/Skills";
 import Contact from "../components/Contact";
+import VisitorMap from "../components/VisitorMap";
 
 const HomePage = () => {
   return (
@@ -12,6 +13,7 @@ const HomePage = () => {
       <Education />
       <Skills />
       <Contact />
+      <VisitorMap />
     </>
   );
 };
