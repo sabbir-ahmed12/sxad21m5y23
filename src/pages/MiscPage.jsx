@@ -5,12 +5,8 @@ import Cocurriculur from "../components/Cocurriculur";
 import Affiliations from "../components/Affiliations";
 import StandardizedTests from "../components/StandardizedTests";
 import Quotes from "../components/Quotes";
-import useGlobeWidget from "../hooks/useGlobeWidget";
 
 const MiscPage = () => {
-  const globe = useGlobeWidget(
-    "//clustrmaps.com/globe.js?d=XfPN6nLJI6Q1xG_D-Wze9Tdf4FqJERVIzCFeLO4eOR4"
-  );
   return (
     <section>
       <Container>
@@ -57,7 +53,6 @@ const MiscPage = () => {
               <Quotes />
             </Col>
           </Row>
-          {globe}
         </div>
       </Container>
     </section>
