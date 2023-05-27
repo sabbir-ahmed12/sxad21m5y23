@@ -8,6 +8,9 @@ import Quotes from "../components/Quotes";
 import useGlobeWidget from "../hooks/useGlobeWidget";
 
 const MiscPage = () => {
+  useGlobeWidget(
+    "//clustrmaps.com/globe.js?d=XfPN6nLJI6Q1xG_D-Wze9Tdf4FqJERVIzCFeLO4eOR4"
+  );
   return (
     <section>
       <Container>
@@ -52,11 +55,6 @@ const MiscPage = () => {
               <h1 className="display-5 text-center">Favorite Quotes</h1>
               <hr />
               <Quotes />
-            </Col>
-          </Row>
-          <Row className="justify-content-center my-2">
-            <Col sm={10} className="text-center">
-              useGlobeWidget("//clustrmaps.com/globe.js?d=XfPN6nLJI6Q1xG_D-Wze9Tdf4FqJERVIzCFeLO4eOR4")
             </Col>
           </Row>
         </div>
